@@ -11,6 +11,7 @@ Este repositorio será donde vayas a hacer
 todas las pruebas correspondientes.
 Crea un nuevo repositorio, crea el 
 README.md y haz el commit inicial
+https://github.com/ErikaValdez120/64289
 
 - Ejercicio 2
 
@@ -99,10 +100,10 @@ ya que la interfaz volvió a funcionar.
 
 ## Screenshots
 - Log
-- 
+ 
 ![Log](https://github.com/ErikaValdez120/web-veterinaria/blob/desafio4/log.png)
 
 - Revert commit
-- 
+ 
 ![Revert commit](https://github.com/ErikaValdez120/web-veterinaria/blob/desafio4/revert%20commit.png)
 
