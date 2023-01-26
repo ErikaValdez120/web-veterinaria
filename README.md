@@ -29,7 +29,7 @@ Para cerrar el día, cada desarrollador/a debe
 presentar el log actual del proyecto, con los 
 identificadores de cada commit. Haz un log 
 de todos los commit.
-
+https://github.com/ErikaValdez120/nuevo_repositorio
 
 # Desafio 2
 
@@ -44,7 +44,7 @@ es justamente lo que queremos evitar.
 Clona en otra carpeta el repositorio que 
 empezaste, realiza algunos cambios y haz 
 un commit
-
+https://github.com/ErikaValdez120/nest
 - Ejercicio 2
 
 Consigna
@@ -56,6 +56,7 @@ sólo lectura para quienes hagan clone.
 Deberías hallar la forma de importar el 
 código a tu cuenta de GitHub y tener acceso 
 total para poder hacer cambios a tu gusto.
+https://github.com/ErikaValdez120/nest
 
 # Desafio 3
 
@@ -70,6 +71,7 @@ branch custom-navbar. Debes pausar tu
 trabajo en el commit actual y borrar el 
 archivo status.js del branch master de este 
 repositorio.
+https://github.com/ErikaValdez120/web-veterinaria/tree/custom-navbar
 
 # Desafio 4
 
