@@ -99,8 +99,10 @@ ya que la interfaz volvió a funcionar.
 
 ## Screenshots
 - Log
+- 
 ![Log](https://github.com/ErikaValdez120/web-veterinaria/blob/desafio4/log.png)
 
 - Revert commit
+- 
 ![Revert commit](https://github.com/ErikaValdez120/web-veterinaria/blob/desafio4/revert%20commit.png)
 
